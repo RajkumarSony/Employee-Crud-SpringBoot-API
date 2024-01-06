@@ -12,3 +12,5 @@ Create table Employees.employee
     department    varchar(30) null
 );
 ```
+
+### Important* : Server Port Number should be `8080`.
